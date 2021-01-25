@@ -1,1 +1,1 @@
-# DDoS
+Script kid
